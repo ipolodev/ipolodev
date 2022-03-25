@@ -1,0 +1,4 @@
+- 👋 Salut :) Je suis Polo le fondateur de iPolo
+- 👀 Je suis passionné d'informatique et actuellement propriétaire et développeur de mon site ipolo.fr
+- 🌱 J'apprends de jours en jours le PHP, l'HTML, le CSS et le Javascript
+- 📫 Vous pouvez me contacter via https://discord.ipolo.fr/ ou bien root@ipolo.fr
